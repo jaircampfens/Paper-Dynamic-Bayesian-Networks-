@@ -1,4 +1,4 @@
-Dynamic Bayesian Network for Urban Energy Transition – Winterthur Case Study
+# **Dynamic Bayesian Network for Urban Energy Transition – Winterthur Case Study**
 
 This repository contains the full modelling workflow, supporting files, and survey tools used in our study.
 
