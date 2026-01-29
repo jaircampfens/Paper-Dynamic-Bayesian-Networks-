@@ -6,8 +6,6 @@ The project develops a Dynamic Bayesian Network (DBN) to explore transition path
 
 The repository includes:
 
-1. the DBN model file (GeNIe/SMILE format)
+A. Two Jupyter notebooks used for model elicitation and analysis
 
-2. two Jupyter notebooks used for model elicitation and analysis
-
-3. a Python script for survey-based CPT construction
+B. A Python script for survey-based CPT construction
